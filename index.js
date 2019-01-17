@@ -10,6 +10,4 @@ function handleCatClicks() {
 }
 $(handleCatClicks);
 
-    // const pressedBool = $(targetCat).attr('aria-pressed' === 'true');
-    // otherCats.removeClass('.hero').attr('aria-pressed', false);    
-    // targetCat.addClass('.hero').attr('aria-pressed', !pressedBool);
+    
